@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.77a7c0f8.css",
+    "main.js": "./static/js/main.c75d4d5b.js",
+    "static/media/aerial (5) (1).jpg": "./static/media/aerial (5) (1).da0637c51890695475ec.jpg",
+    "static/media/Rubik-Medium.ttf": "./static/media/Rubik-Medium.0e121b4fa4d6e9bc5c69.ttf",
+    "static/media/Rubik-Regular.ttf": "./static/media/Rubik-Regular.55fa11cdc8b9a3ee842f.ttf",
+    "static/media/Rubik-Light.ttf": "./static/media/Rubik-Light.9d2ccd264dc61b954019.ttf",
+    "static/media/Gilroy-UltraLight.ttf": "./static/media/Gilroy-UltraLight.6c356bf421a0b34d2b76.ttf",
+    "static/media/Gilroy-Light.ttf": "./static/media/Gilroy-Light.0ac7c2f9cb59ea1ba11c.ttf",
+    "static/media/Gilroy-Thin.ttf": "./static/media/Gilroy-Thin.fc813b757bc09eb509dc.ttf",
+    "static/media/Gilroy-Medium.ttf": "./static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
+    "static/media/Gilroy-Regular.ttf": "./static/media/Gilroy-Regular.fa652e766b6a85a1f9cb.ttf",
+    "static/media/Gilroy-Semibold.ttf": "./static/media/Gilroy-Semibold.41fa36c3c8e966b35423.ttf",
+    "static/media/Gilroy-Bold.ttf": "./static/media/Gilroy-Bold.901a60fc2835c74fba67.ttf",
+    "static/media/Gilroy-Extrabold.ttf": "./static/media/Gilroy-Extrabold.92e435f7fae6070d73bb.ttf",
+    "static/media/box.svg": "./static/media/box.e6540f4911c21274f69eee2785913f55.svg",
+    "static/media/hit-logo.png": "./static/media/hit-logo.41f8e959eed81254ca98.png",
+    "static/media/podarka.svg": "./static/media/podarka.af76643272f49b2dcbee1b8aadc170ea.svg",
+    "static/media/detais_icon7.svg": "./static/media/detais_icon7.d427c9cd9655a0d8ac8d591e848cc051.svg",
+    "static/media/whatsapp_svg.svg": "./static/media/whatsapp_svg.aa34433c738c2ef508f4588e9f9980d4.svg",
+    "static/media/chemodan.svg": "./static/media/chemodan.10bf4f8b02782fcf3eff8d571b37009f.svg",
+    "static/media/insta.svg": "./static/media/insta.e0e5ea72565f1507401ab7148558c61e.svg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/empty-box.svg": "./static/media/empty-box.cde545a5fbf8be8dcb86db8291abcf29.svg",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/tripadvisor.svg": "./static/media/tripadvisor.db516c90290450e6a6a4.svg",
+    "index.html": "./index.html",
+    "static/media/Line.svg": "./static/media/Line.f8c0441c85f8b89b170f2876b07b8c26.svg",
+    "main.77a7c0f8.css.map": "./static/css/main.77a7c0f8.css.map",
+    "main.c75d4d5b.js.map": "./static/js/main.c75d4d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a7c0f8.css",
+    "static/js/main.c75d4d5b.js"
+  ]
+}
